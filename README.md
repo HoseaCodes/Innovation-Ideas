@@ -1,9 +1,8 @@
 # Innovation-Ideas
 
-### Add some of your innovation ideas below!
 
-If you see something you're interested in...put your name on it. If there is a name on an idea already...partner up!
-| **Idea** | **Submitted Date** | **Interested** | **Notes** | Status | Submitted |
-|----------|------------------|----------------|-----------|--------|-----------|
-| ... | 12/08/22 | target consumer | Proof of concept | Ongoing | url |
-| ... | 12/22/22 | target consumer | Proof of concept | Not Started | n/a |
+| **Idea** | **Submitted Date** | **Interested** | **Notes** | Status | Timeframe | Submitted |
+|----------|------------------|----------------|-----------|--------|-----------| ----- |
+| ... | 12/08/22 | target consumer | Proof of concept | Ongoing | 1 month | url |
+| ... | 12/22/22 | target consumer | Proof of concept | Not Started | 2 weeks | n/a |
+| Access Management | 12/22/22 | internal use | Managing indiviual, groups, roles, non-human accounts (LDAPs) | Not Started | 3 - 6 months | n/a |
