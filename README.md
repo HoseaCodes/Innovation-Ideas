@@ -10,3 +10,6 @@
 | Staging w/Deployyment Template Pipeline | 12/22/22 | internal use | Verify Branch (build image, linter, unit test, pit test), Dependence Scan, Static Scan, Release Check, AAT | Not Started | 1 - 2 months | n/a |
 | Release Strategy  | 12/22/22 | internal use | create universal release strategy | Not Started | 1 - 2 months | n/a |
 | Style Guide  | 12/22/22 | internal use | create universal style guide | Not Started | 1 - 2 months | n/a |
+| ReadMe Guidelines  | 12/22/22 | internal use | create universal read me guideilnes | Not Started | 1 - 2 months | n/a |
+| Alert Management  | 12/22/22 | internal use | alerting | Not Started | 1 - 2 months | n/a |
+| Log Management  | 12/22/22 | internal use | logging | Not Started | 1 - 2 months | n/a |
