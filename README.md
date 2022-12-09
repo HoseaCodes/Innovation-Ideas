@@ -18,3 +18,5 @@
 | Identify Tech Debt Tool | 12/22/22 | internal use | A tool to help track down old code that hasn't been updated in a while as well as code that has last been touched by former members of the gitlab project. Ability to build v1 tickets directly for files/groups of files that need to be updated or knowledge transferred. May be possible to link up with sonarqube. Ranking system for files/groups of files | Not Started | 1 - 2 months | n/a |
 | Session Replay Software | 12/22/22 | internal use | like acoustic tealeaf  | Not Started | 1 - 2 months | n/a |
 | CLI Tool | 12/22/22 | internal use | handle any major cli lifting  | Not Started | 1 - 2 months | n/a |
+| Dev Center | 12/22/22 | internal use | Window Manager - allows user to use web app instead of tabs. Allowing for consolidated use to avoid open tabs,  | Not Started | 1 - 2 months | [Dev Center](https://github.com/HoseaCodes/DevCenter) |
+
